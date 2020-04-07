@@ -25,7 +25,8 @@ function Cijfer(opdracht, cijfer) {
     cijferObj.vakken = [];
 
 }
-
+let opdracht1 = new Cijfer('the wall', 4);
+let opdracht2 = new Cijfer('arrey', 7);
 
 // OPDRACHT 2.
 // Maak verschillende variabelen voor je opdrachten.
